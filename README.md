@@ -11,7 +11,9 @@ The clever part only applies to people who are using to clever to sign in, (if y
 
 https://clever.com/oauth/authorize?channel=clever-portal&client_id=blahblahblah&confirmed=true&district_id=blahblahblah&redirect_uri=https%3A%2F%2Fplay.dreambox.com%2Flogin%2Fclever_oauth&response_type=code
 
-and then, you're pretty much done. just install all of the modules in requirements.txt and run the script IN CMD (or whatever you want to call it)
+and then, you're pretty much done. just install all of the modules in requirements.txt and run the script **IN CMD** (or whatever you want to call it)
+
+The average time for a lesson was around 1.3 seconds. it will be faster or slower depending on your internet speed. Also, if there is anyone who is good at programming, it seems that if this is ran for a continuous amount of time (several thousand lessons) the time slowly goes up and up. Is this a problem with my script or is it a problem with their servers?
 
 Also, you cant use most vpns with this because then you sometimes get captchas and i dont want to add captcha support
 
