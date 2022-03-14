@@ -3,8 +3,7 @@ One of my first python projects.
 
 Don't judge my code too hard, im just starting out.
 
-First, make a config.json file with the contents of:
-{"email": "your email", "password": "your password", "clever": "only applicable if you use clever to sign in"}
+First, edit the config.json file with the corresponding stuff.
 
 If you sign into dreambox on the play.dreambox.com site, you would change the email and password things with the username and pass to your dreambox account. If you use clever to sign in, you would replace them with your corresponding clever username and password (likely just google account stuff)
 
