@@ -15,4 +15,4 @@ and then, you're pretty much done. just install all of the modules in requiremen
 
 Also, you cant use most vpns with this because then you sometimes get captchas and i dont want to add captcha support
 
-# Don't abuse this, I don't want to be involved in any way with how you use it.
+# Don't abuse this, I don't want to be involved in any way with how you use it. I got in trouble with my school because of this, take that how you will.
