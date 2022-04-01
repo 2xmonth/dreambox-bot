@@ -7,6 +7,7 @@ So, the dreambox people found this repository and supposedly patched it. It woul
 
 ALSO DREAMBOX PEOPLE: Do you know why it was slowly taking longer and longer to do lessons? Was it your servers that got slowed down or was it my program?
 Also, why was it looping through kindergarten lessons? Was it because of the auto save data (which, if (in my opinion) you want to really hinder anyone trying to make a bot, you should check to make sure that the auto save data is actually completely valid as that was the hardest part for me in this project. I kept trying to sythesize my own until I realized that you guys didn't care what the asData was unless it was mostly filled out) or something different?
+Final thing, was it because of me that you added more lesson analysis stuff on the teacher side? Or was that always there?
 
 # Previous description:
 
