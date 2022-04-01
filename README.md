@@ -1,4 +1,14 @@
 # dreambox-bot
+
+
+# Patched! (Probably, haven't checked)
+
+So, the dreambox people found this repository and supposedly patched it. It would probably be kinda easy to fix again but I'm working on other things now so other people can do that. 
+
+ALSO DREAMBOX PEOPLE: Do you know why it was slowly taking longer and longer to do lessons? Was it your servers that got slowed down or was it my program?
+
+# Previous description:
+
 One of my first python projects.
 
 Don't judge my code too hard, im just starting out.
